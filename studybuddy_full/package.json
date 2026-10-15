@@ -1,0 +1,11 @@
+{
+  "name": "studybuddy-full",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "StudyBuddy with Supabase auth/storage and a Netlify AI function",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0",
+    "openai": "^5.20.0"
+  }
+}
